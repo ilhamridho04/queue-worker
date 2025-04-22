@@ -1,0 +1,23 @@
+{
+  "name": "worker",
+  "version": "1.0.0",
+  "description": "server side queue worker",
+  "main": "queue-worker.js",
+  "scripts": {
+    "test": "node queue-worker.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilhamridho04/queue-worker.git"
+  },
+  "keywords": [
+    "queue-worker",
+    "queue"
+  ],
+  "author": "Ilham Ridho Asysyifa'a",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ilhamridho04/queue-worker/issues"
+  },
+  "homepage": "https://github.com/ilhamridho04/queue-worker#readme"
+}
